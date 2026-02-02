@@ -394,7 +394,7 @@ def extract_title(markdown):
     raise Exception("No H1 header found in the markdown content.")
 
 
-def generate_page(from_path, template_path, dest_path):
+def generate_page(from_path, template_path, dest_path, basepath="/"):
     # Print a message like "Generating page from from_path to dest_path using template_path".
     # Read the markdown file at from_path and store the contents in a variable.
     # Read the template file at template_path and store the contents in a variable.
@@ -425,9 +425,17 @@ def generate_page(from_path, template_path, dest_path):
     title = extract_title(markdown_content)
 
     # 5. Replace Placeholders
+    normalized_base = basepath
+    if not normalized_base.startswith("/"):
+        normalized_base = "/" + normalized_base
+    if not normalized_base.endswith("/"):
+        normalized_base += "/"
     # We replace the Title first, then the Content
     full_html = template_content.replace("{{ Title }}", title)
     full_html = full_html.replace("{{ Content }}", html_content)
+
+    full_html = full_html.replace('href="/', f'href="{normalized_base}')
+    full_html = full_html.replace('src="/', f'src="{normalized_base}')
 
     # 6. Ensure Destination Directory Exists
     dest_dir_path = os.path.dirname(dest_path)
@@ -440,12 +448,12 @@ def generate_page(from_path, template_path, dest_path):
 
     print(f"Successfully generated: {dest_path}")
 
-def generate_pages_recursive(dir_path_content, template_path, dest_dir_path):
+def generate_pages_recursive(dir_path_content, template_path, dest_dir_path, basepath="/"):
     for root, dirs, files in os.walk(dir_path_content):
         for file in files:
             if file.endswith(".md"):
                 from_path = os.path.join(root, file)
                 relative_path = os.path.relpath(from_path, dir_path_content)
                 dest_path = os.path.join(dest_dir_path, relative_path).replace(".md", ".html")
-                generate_page(from_path, template_path, dest_path)
+                generate_page(from_path, template_path, dest_path, basepath=basepath)
 

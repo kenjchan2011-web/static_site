@@ -5,7 +5,8 @@ import shutil
 from zipfile import Path
 from converter import generate_page
 
-TARGET_DIR="./public"
+#TARGET_DIR="./public"
+TARGET_DIR="./docs"
 SOURCE_DIR="./static"
 
 # 1. Setup Logging Configuration
@@ -77,7 +78,8 @@ def refresh_environment():
     delete_public_directory()
     copy_files_to_public_directory()
 
-def build_page():
+'''
+def generate_pages():
 
     source_dir = "/home/kenjc/development/projects/static_site_generator/static_site/content"
     dest_dir = "/home/kenjc/development/projects/static_site_generator/static_site/static"
@@ -90,6 +92,6 @@ def build_page():
             generate_page(full_path, template_path, dest_path)
             logging.info(f"Generated page: {dest_path}")
 
-
+'''
 #if __name__=="__main__":
     #print(build_page(source_dir, dest_dir))
