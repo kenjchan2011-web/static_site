@@ -1,0 +1,550 @@
+2026-01-30 12:45:13,925 - INFO - Starting scan of: ./public
+2026-01-30 12:45:13,925 - INFO - Directory: ./public
+2026-01-30 12:45:13,925 - INFO -   File: ./public/index.css
+2026-01-30 12:45:13,925 - INFO - Directory: ./public/images
+2026-01-30 12:45:13,925 - INFO -   File: ./public/images/tolkien.png
+2026-01-30 12:45:13,925 - INFO - Scan completed successfully.
+2026-01-30 12:45:13,926 - INFO - SUCCESSFULLY DELETED: ./public and all its children.
+2026-01-30 12:45:13,926 - INFO - Starting scan of: ./static
+2026-01-30 12:45:13,926 - INFO - Directory: ./static
+2026-01-30 12:45:13,926 - INFO -   File: ./static/index.css
+2026-01-30 12:45:13,926 - INFO - Directory: ./static/images
+2026-01-30 12:45:13,926 - INFO -   File: ./static/images/tolkien.png
+2026-01-30 12:45:13,926 - INFO - Scan completed successfully.
+2026-01-30 12:45:13,927 - INFO - Successfully copied ./static to ./public
+2026-01-30 12:46:40,387 - INFO - Starting scan of: ./public
+2026-01-30 12:46:40,387 - INFO - Directory: ./public
+2026-01-30 12:46:40,387 - INFO -   File: ./public/index.css
+2026-01-30 12:46:40,387 - INFO - Directory: ./public/images
+2026-01-30 12:46:40,387 - INFO -   File: ./public/images/tolkien.png
+2026-01-30 12:46:40,387 - INFO - Scan completed successfully.
+2026-01-30 12:46:40,387 - INFO - SUCCESSFULLY DELETED: ./public and all its children.
+2026-01-30 12:46:40,388 - INFO - Starting scan of: ./static
+2026-01-30 12:46:40,388 - INFO - Directory: ./static
+2026-01-30 12:46:40,388 - INFO -   File: ./static/index.css
+2026-01-30 12:46:40,388 - INFO - Directory: ./static/images
+2026-01-30 12:46:40,388 - INFO -   File: ./static/images/tolkien.png
+2026-01-30 12:46:40,388 - INFO - Scan completed successfully.
+2026-01-30 12:46:40,388 - INFO - Successfully copied ./static to ./public
+2026-01-30 16:29:41,400 - INFO - Starting scan of: ./public
+2026-01-30 16:29:41,402 - INFO - Directory: ./public
+2026-01-30 16:29:41,402 - INFO -   File: ./public/index.css
+2026-01-30 16:29:41,402 - INFO - Directory: ./public/images
+2026-01-30 16:29:41,402 - INFO -   File: ./public/images/tolkien.png
+2026-01-30 16:29:41,402 - INFO - Scan completed successfully.
+2026-01-30 16:29:41,403 - INFO - SUCCESSFULLY DELETED: ./public and all its children.
+2026-01-30 16:29:41,403 - INFO - Starting scan of: ./static
+2026-01-30 16:29:41,403 - INFO - Directory: ./static
+2026-01-30 16:29:41,403 - INFO -   File: ./static/index.css
+2026-01-30 16:29:41,404 - INFO - Directory: ./static/images
+2026-01-30 16:29:41,404 - INFO -   File: ./static/images/tolkien.png
+2026-01-30 16:29:41,404 - INFO - Scan completed successfully.
+2026-01-30 16:29:41,408 - INFO - Successfully copied ./static to ./public
+2026-01-30 16:30:30,728 - INFO - Starting scan of: ./public
+2026-01-30 16:30:30,728 - INFO - Directory: ./public
+2026-01-30 16:30:30,728 - INFO -   File: ./public/index.css
+2026-01-30 16:30:30,728 - INFO - Directory: ./public/images
+2026-01-30 16:30:30,728 - INFO -   File: ./public/images/tolkien.png
+2026-01-30 16:30:30,728 - INFO - Scan completed successfully.
+2026-01-30 16:30:30,728 - INFO - SUCCESSFULLY DELETED: ./public and all its children.
+2026-01-30 16:30:30,728 - INFO - Starting scan of: ./static
+2026-01-30 16:30:30,728 - INFO - Directory: ./static
+2026-01-30 16:30:30,728 - INFO -   File: ./static/index.css
+2026-01-30 16:30:30,728 - INFO - Directory: ./static/images
+2026-01-30 16:30:30,728 - INFO -   File: ./static/images/tolkien.png
+2026-01-30 16:30:30,728 - INFO - Scan completed successfully.
+2026-01-30 16:30:30,729 - INFO - Successfully copied ./static to ./public
+2026-01-30 16:36:01,287 - INFO - Starting scan of: ./public
+2026-01-30 16:36:01,288 - INFO - Directory: ./public
+2026-01-30 16:36:01,288 - INFO -   File: ./public/index.css
+2026-01-30 16:36:01,288 - INFO - Directory: ./public/images
+2026-01-30 16:36:01,288 - INFO -   File: ./public/images/tolkien.png
+2026-01-30 16:36:01,288 - INFO - Scan completed successfully.
+2026-01-30 16:36:01,289 - INFO - SUCCESSFULLY DELETED: ./public and all its children.
+2026-01-30 16:36:01,289 - INFO - Starting scan of: ./static
+2026-01-30 16:36:01,289 - INFO - Directory: ./static
+2026-01-30 16:36:01,289 - INFO -   File: ./static/index.css
+2026-01-30 16:36:01,290 - INFO - Directory: ./static/images
+2026-01-30 16:36:01,290 - INFO -   File: ./static/images/tolkien.png
+2026-01-30 16:36:01,290 - INFO - Scan completed successfully.
+2026-01-30 16:36:01,292 - INFO - Successfully copied ./static to ./public
+2026-01-30 16:36:14,075 - INFO - Starting scan of: ./public
+2026-01-30 16:36:14,075 - INFO - Directory: ./public
+2026-01-30 16:36:14,075 - INFO -   File: ./public/index.css
+2026-01-30 16:36:14,075 - INFO - Directory: ./public/images
+2026-01-30 16:36:14,075 - INFO -   File: ./public/images/tolkien.png
+2026-01-30 16:36:14,075 - INFO - Scan completed successfully.
+2026-01-30 16:36:14,076 - INFO - SUCCESSFULLY DELETED: ./public and all its children.
+2026-01-30 16:36:14,076 - INFO - Starting scan of: ./static
+2026-01-30 16:36:14,076 - INFO - Directory: ./static
+2026-01-30 16:36:14,076 - INFO -   File: ./static/index.css
+2026-01-30 16:36:14,076 - INFO - Directory: ./static/images
+2026-01-30 16:36:14,076 - INFO -   File: ./static/images/tolkien.png
+2026-01-30 16:36:14,076 - INFO - Scan completed successfully.
+2026-01-30 16:36:14,077 - INFO - Successfully copied ./static to ./public
+2026-01-30 16:37:57,849 - INFO - Starting scan of: ./public
+2026-01-30 16:37:57,849 - INFO - Directory: ./public
+2026-01-30 16:37:57,849 - INFO -   File: ./public/index.html
+2026-01-30 16:37:57,849 - INFO -   File: ./public/index.css
+2026-01-30 16:37:57,849 - INFO - Directory: ./public/images
+2026-01-30 16:37:57,849 - INFO -   File: ./public/images/tolkien.png
+2026-01-30 16:37:57,849 - INFO - Scan completed successfully.
+2026-01-30 16:37:57,850 - INFO - SUCCESSFULLY DELETED: ./public and all its children.
+2026-01-30 16:37:57,850 - INFO - Starting scan of: ./static
+2026-01-30 16:37:57,850 - INFO - Directory: ./static
+2026-01-30 16:37:57,850 - INFO -   File: ./static/index.css
+2026-01-30 16:37:57,850 - INFO - Directory: ./static/images
+2026-01-30 16:37:57,850 - INFO -   File: ./static/images/tolkien.png
+2026-01-30 16:37:57,850 - INFO - Scan completed successfully.
+2026-01-30 16:37:57,851 - INFO - Successfully copied ./static to ./public
+2026-01-30 16:37:58,046 - INFO - Starting scan of: ./public
+2026-01-30 16:37:58,046 - INFO - Directory: ./public
+2026-01-30 16:37:58,046 - INFO -   File: ./public/index.html
+2026-01-30 16:37:58,046 - INFO -   File: ./public/index.css
+2026-01-30 16:37:58,046 - INFO - Directory: ./public/images
+2026-01-30 16:37:58,046 - INFO -   File: ./public/images/tolkien.png
+2026-01-30 16:37:58,046 - INFO - Scan completed successfully.
+2026-01-30 16:37:58,046 - INFO - SUCCESSFULLY DELETED: ./public and all its children.
+2026-01-30 16:37:58,046 - INFO - Starting scan of: ./static
+2026-01-30 16:37:58,046 - INFO - Directory: ./static
+2026-01-30 16:37:58,046 - INFO -   File: ./static/index.css
+2026-01-30 16:37:58,046 - INFO - Directory: ./static/images
+2026-01-30 16:37:58,046 - INFO -   File: ./static/images/tolkien.png
+2026-01-30 16:37:58,046 - INFO - Scan completed successfully.
+2026-01-30 16:37:58,047 - INFO - Successfully copied ./static to ./public
+2026-02-01 16:26:34,627 - INFO - Directory: ./content
+2026-02-01 16:26:34,629 - INFO -   File: ./content/index.md
+2026-02-01 16:26:34,631 - INFO - Directory: ./content/contact
+2026-02-01 16:26:34,631 - INFO -   File: ./content/contact/index.md
+2026-02-01 16:26:34,631 - INFO - Directory: ./content/blog
+2026-02-01 16:26:34,631 - INFO - Directory: ./content/blog/glorfindel
+2026-02-01 16:26:34,631 - INFO -   File: ./content/blog/glorfindel/index.md
+2026-02-01 16:26:34,631 - INFO - Directory: ./content/blog/majesty
+2026-02-01 16:26:34,631 - INFO -   File: ./content/blog/majesty/index.md
+2026-02-01 16:26:34,631 - INFO - Directory: ./content/blog/tom
+2026-02-01 16:26:34,631 - INFO -   File: ./content/blog/tom/index.md
+2026-02-01 16:27:09,645 - INFO - Directory: ./content
+2026-02-01 16:27:09,645 - INFO -   File: ./content/index.md
+2026-02-01 16:27:09,645 - INFO - Directory: ./content/contact
+2026-02-01 16:27:09,645 - INFO -   File: ./content/contact/index.md
+2026-02-01 16:27:09,645 - INFO - Directory: ./content/blog
+2026-02-01 16:27:09,645 - INFO - Directory: ./content/blog/glorfindel
+2026-02-01 16:27:09,645 - INFO -   File: ./content/blog/glorfindel/index.md
+2026-02-01 16:27:09,645 - INFO - Directory: ./content/blog/majesty
+2026-02-01 16:27:09,645 - INFO -   File: ./content/blog/majesty/index.md
+2026-02-01 16:27:09,645 - INFO - Directory: ./content/blog/tom
+2026-02-01 16:27:09,645 - INFO -   File: ./content/blog/tom/index.md
+2026-02-01 16:29:08,666 - INFO - Directory: ./content
+2026-02-01 16:29:08,666 - INFO -   File: ./content/index.md
+2026-02-01 16:29:08,666 - INFO - Directory: ./content/contact
+2026-02-01 16:29:08,666 - INFO -   File: ./content/contact/index.md
+2026-02-01 16:29:08,666 - INFO - Directory: ./content/blog
+2026-02-01 16:29:08,666 - INFO - Directory: ./content/blog/glorfindel
+2026-02-01 16:29:08,666 - INFO -   File: ./content/blog/glorfindel/index.md
+2026-02-01 16:29:08,666 - INFO - Directory: ./content/blog/majesty
+2026-02-01 16:29:08,666 - INFO -   File: ./content/blog/majesty/index.md
+2026-02-01 16:29:08,666 - INFO - Directory: ./content/blog/tom
+2026-02-01 16:29:08,666 - INFO -   File: ./content/blog/tom/index.md
+2026-02-01 16:30:11,432 - INFO - Directory: ./content
+2026-02-01 16:30:11,432 - INFO -   File: ./content/index.md
+2026-02-01 16:30:11,432 - INFO - Directory: ./content/contact
+2026-02-01 16:30:11,432 - INFO -   File: ./content/contact/index.md
+2026-02-01 16:30:11,432 - INFO - Directory: ./content/blog
+2026-02-01 16:30:11,432 - INFO - Directory: ./content/blog/glorfindel
+2026-02-01 16:30:11,432 - INFO -   File: ./content/blog/glorfindel/index.md
+2026-02-01 16:30:11,432 - INFO - Directory: ./content/blog/majesty
+2026-02-01 16:30:11,432 - INFO -   File: ./content/blog/majesty/index.md
+2026-02-01 16:30:11,432 - INFO - Directory: ./content/blog/tom
+2026-02-01 16:30:11,432 - INFO -   File: ./content/blog/tom/index.md
+2026-02-01 16:30:50,615 - INFO - Directory: ./content
+2026-02-01 16:30:50,615 - INFO -   File: ./content/index.md
+2026-02-01 16:30:50,615 - INFO - Directory: ./content/contact
+2026-02-01 16:30:50,615 - INFO -   File: ./content/contact/index.md
+2026-02-01 16:30:50,615 - INFO - Directory: ./content/blog
+2026-02-01 16:30:50,615 - INFO - Directory: ./content/blog/glorfindel
+2026-02-01 16:30:50,615 - INFO -   File: ./content/blog/glorfindel/index.md
+2026-02-01 16:30:50,615 - INFO - Directory: ./content/blog/majesty
+2026-02-01 16:30:50,615 - INFO -   File: ./content/blog/majesty/index.md
+2026-02-01 16:30:50,615 - INFO - Directory: ./content/blog/tom
+2026-02-01 16:30:50,615 - INFO -   File: ./content/blog/tom/index.md
+2026-02-01 16:37:07,576 - INFO - Directory: ./content
+2026-02-01 16:37:07,576 - INFO -   File: ./content/index.md
+2026-02-01 16:37:07,576 - INFO - Directory: ./content/contact
+2026-02-01 16:37:07,576 - INFO -   File: ./content/contact/index.md
+2026-02-01 16:37:07,576 - INFO - Directory: ./content/blog
+2026-02-01 16:37:07,576 - INFO - Directory: ./content/blog/glorfindel
+2026-02-01 16:37:07,576 - INFO -   File: ./content/blog/glorfindel/index.md
+2026-02-01 16:37:07,576 - INFO - Directory: ./content/blog/majesty
+2026-02-01 16:37:07,576 - INFO -   File: ./content/blog/majesty/index.md
+2026-02-01 16:37:07,576 - INFO - Directory: ./content/blog/tom
+2026-02-01 16:37:07,576 - INFO -   File: ./content/blog/tom/index.md
+2026-02-01 16:37:22,855 - INFO - Directory: ./content
+2026-02-01 16:37:22,856 - INFO -   File: ./content/index.md
+2026-02-01 16:37:22,856 - INFO - Directory: ./content/contact
+2026-02-01 16:37:22,856 - INFO -   File: ./content/contact/index.md
+2026-02-01 16:37:22,856 - INFO - Directory: ./content/blog
+2026-02-01 16:37:22,856 - INFO - Directory: ./content/blog/glorfindel
+2026-02-01 16:37:22,856 - INFO -   File: ./content/blog/glorfindel/index.md
+2026-02-01 16:37:22,856 - INFO - Directory: ./content/blog/majesty
+2026-02-01 16:37:22,856 - INFO -   File: ./content/blog/majesty/index.md
+2026-02-01 16:37:22,856 - INFO - Directory: ./content/blog/tom
+2026-02-01 16:37:22,856 - INFO -   File: ./content/blog/tom/index.md
+2026-02-01 16:39:44,904 - INFO - Directory: ./content
+2026-02-01 16:39:53,644 - INFO - Directory: ./content
+2026-02-01 16:40:11,030 - INFO - Directory: ./content
+2026-02-01 16:40:11,030 - INFO -   File: ./content/index.md
+2026-02-01 16:40:41,294 - INFO - Directory: ./content
+2026-02-01 16:40:41,294 - INFO -   File: ./content/index.md
+2026-02-01 16:41:25,430 - INFO - Directory: ./content
+2026-02-01 16:41:25,430 - INFO -   File: ./content/index.md
+2026-02-01 16:41:49,431 - INFO - Directory: ./content
+2026-02-01 16:41:49,431 - INFO -   File: ./content/index.md
+2026-02-01 16:42:10,343 - INFO - Directory: ./content
+2026-02-01 16:42:10,343 - INFO -   File: ./content/index.md
+2026-02-01 16:42:45,727 - INFO - Directory: ./content
+2026-02-01 16:42:45,727 - INFO -   File: ./content/index.md
+2026-02-01 16:43:02,162 - INFO - Directory: ./content
+2026-02-01 16:43:02,163 - INFO -   File: ./content/index.md
+2026-02-01 16:43:02,163 - INFO - Directory: ./content/contact
+2026-02-01 16:43:02,163 - INFO -   File: ./content/contact/index.md
+2026-02-01 16:43:02,163 - INFO - Directory: ./content/blog
+2026-02-01 16:43:02,163 - INFO - Directory: ./content/blog/glorfindel
+2026-02-01 16:43:02,163 - INFO -   File: ./content/blog/glorfindel/index.md
+2026-02-01 16:43:02,163 - INFO - Directory: ./content/blog/majesty
+2026-02-01 16:43:02,163 - INFO -   File: ./content/blog/majesty/index.md
+2026-02-01 16:43:02,163 - INFO - Directory: ./content/blog/tom
+2026-02-01 16:43:02,163 - INFO -   File: ./content/blog/tom/index.md
+2026-02-01 16:53:30,033 - INFO - Directory: ./content
+2026-02-01 16:53:30,033 - INFO -   File: ./content/index.md
+2026-02-01 16:54:25,305 - INFO - Directory: ./content
+2026-02-01 16:54:25,306 - INFO -   File: ./content/index.md
+2026-02-01 16:56:00,210 - INFO - Directory: ./content
+2026-02-01 16:56:00,210 - INFO -   File: ./content/index.md
+2026-02-01 16:57:50,052 - INFO - Directory: ./content
+2026-02-01 16:57:50,052 - INFO -   File: ./content/index.md
+2026-02-01 16:57:50,052 - INFO - Directory: ./content/contact
+2026-02-01 16:57:50,052 - INFO -   File: ./content/contact/index.md
+2026-02-01 16:58:48,025 - INFO - Directory: ./content
+2026-02-01 16:58:48,025 - INFO -   File: ./content/index.md
+2026-02-01 16:59:12,415 - INFO - Directory: ./content
+2026-02-01 16:59:12,415 - INFO -   File: ./content/index.md
+2026-02-01 17:00:03,463 - INFO - Directory: ./content
+2026-02-01 17:00:03,463 - INFO -   File: ./content/index.md
+2026-02-01 20:46:45,165 - INFO - Generated page: /home/kenjc/development/projects/static_site_generator/static_site/static/index.html
+2026-02-01 20:46:45,165 - INFO - Generated page: /home/kenjc/development/projects/static_site_generator/static_site/static/contact/index.html
+2026-02-01 20:46:45,166 - INFO - Generated page: /home/kenjc/development/projects/static_site_generator/static_site/static/blog/glorfindel/index.html
+2026-02-01 20:46:45,166 - INFO - Generated page: /home/kenjc/development/projects/static_site_generator/static_site/static/blog/majesty/index.html
+2026-02-01 20:46:45,167 - INFO - Generated page: /home/kenjc/development/projects/static_site_generator/static_site/static/blog/tom/index.html
+2026-02-01 20:46:45,167 - INFO - Starting scan of: ./public
+2026-02-01 20:46:45,167 - INFO - Directory: ./public
+2026-02-01 20:46:45,167 - INFO -   File: ./public/index.html
+2026-02-01 20:46:45,167 - INFO -   File: ./public/index.css
+2026-02-01 20:46:45,167 - INFO - Directory: ./public/images
+2026-02-01 20:46:45,167 - INFO -   File: ./public/images/tolkien.png
+2026-02-01 20:46:45,167 - INFO - Scan completed successfully.
+2026-02-01 20:46:45,168 - INFO - SUCCESSFULLY DELETED: ./public and all its children.
+2026-02-01 20:46:45,168 - INFO - Starting scan of: ./static
+2026-02-01 20:46:45,168 - INFO - Directory: ./static
+2026-02-01 20:46:45,168 - INFO -   File: ./static/index.html
+2026-02-01 20:46:45,168 - INFO -   File: ./static/index.css
+2026-02-01 20:46:45,168 - INFO - Directory: ./static/contact
+2026-02-01 20:46:45,168 - INFO -   File: ./static/contact/index.html
+2026-02-01 20:46:45,168 - INFO - Directory: ./static/images
+2026-02-01 20:46:45,168 - INFO -   File: ./static/images/tom.png
+2026-02-01 20:46:45,168 - INFO -   File: ./static/images/rivendell.png
+2026-02-01 20:46:45,168 - INFO -   File: ./static/images/glorfindel.png
+2026-02-01 20:46:45,168 - INFO -   File: ./static/images/tolkien.png
+2026-02-01 20:46:45,168 - INFO - Directory: ./static/blog
+2026-02-01 20:46:45,168 - INFO - Directory: ./static/blog/glorfindel
+2026-02-01 20:46:45,168 - INFO -   File: ./static/blog/glorfindel/index.html
+2026-02-01 20:46:45,168 - INFO - Directory: ./static/blog/majesty
+2026-02-01 20:46:45,168 - INFO -   File: ./static/blog/majesty/index.html
+2026-02-01 20:46:45,168 - INFO - Directory: ./static/blog/tom
+2026-02-01 20:46:45,168 - INFO -   File: ./static/blog/tom/index.html
+2026-02-01 20:46:45,168 - INFO - Scan completed successfully.
+2026-02-01 20:46:45,181 - INFO - Successfully copied ./static to ./public
+2026-02-01 20:46:45,423 - INFO - Generated page: /home/kenjc/development/projects/static_site_generator/static_site/static/index.html
+2026-02-01 20:46:45,424 - INFO - Generated page: /home/kenjc/development/projects/static_site_generator/static_site/static/contact/index.html
+2026-02-01 20:46:45,425 - INFO - Generated page: /home/kenjc/development/projects/static_site_generator/static_site/static/blog/glorfindel/index.html
+2026-02-01 20:46:45,425 - INFO - Generated page: /home/kenjc/development/projects/static_site_generator/static_site/static/blog/majesty/index.html
+2026-02-01 20:46:45,426 - INFO - Generated page: /home/kenjc/development/projects/static_site_generator/static_site/static/blog/tom/index.html
+2026-02-01 20:46:45,426 - INFO - Starting scan of: ./public
+2026-02-01 20:46:45,426 - INFO - Directory: ./public
+2026-02-01 20:46:45,426 - INFO -   File: ./public/index.html
+2026-02-01 20:46:45,426 - INFO -   File: ./public/index.css
+2026-02-01 20:46:45,426 - INFO - Directory: ./public/contact
+2026-02-01 20:46:45,426 - INFO -   File: ./public/contact/index.html
+2026-02-01 20:46:45,426 - INFO - Directory: ./public/images
+2026-02-01 20:46:45,426 - INFO -   File: ./public/images/tom.png
+2026-02-01 20:46:45,426 - INFO -   File: ./public/images/rivendell.png
+2026-02-01 20:46:45,426 - INFO -   File: ./public/images/glorfindel.png
+2026-02-01 20:46:45,426 - INFO -   File: ./public/images/tolkien.png
+2026-02-01 20:46:45,426 - INFO - Directory: ./public/blog
+2026-02-01 20:46:45,426 - INFO - Directory: ./public/blog/glorfindel
+2026-02-01 20:46:45,426 - INFO -   File: ./public/blog/glorfindel/index.html
+2026-02-01 20:46:45,426 - INFO - Directory: ./public/blog/majesty
+2026-02-01 20:46:45,426 - INFO -   File: ./public/blog/majesty/index.html
+2026-02-01 20:46:45,426 - INFO - Directory: ./public/blog/tom
+2026-02-01 20:46:45,426 - INFO -   File: ./public/blog/tom/index.html
+2026-02-01 20:46:45,426 - INFO - Scan completed successfully.
+2026-02-01 20:46:45,427 - INFO - SUCCESSFULLY DELETED: ./public and all its children.
+2026-02-01 20:46:45,427 - INFO - Starting scan of: ./static
+2026-02-01 20:46:45,427 - INFO - Directory: ./static
+2026-02-01 20:46:45,427 - INFO -   File: ./static/index.html
+2026-02-01 20:46:45,427 - INFO -   File: ./static/index.css
+2026-02-01 20:46:45,427 - INFO - Directory: ./static/contact
+2026-02-01 20:46:45,427 - INFO -   File: ./static/contact/index.html
+2026-02-01 20:46:45,427 - INFO - Directory: ./static/images
+2026-02-01 20:46:45,427 - INFO -   File: ./static/images/tom.png
+2026-02-01 20:46:45,427 - INFO -   File: ./static/images/rivendell.png
+2026-02-01 20:46:45,427 - INFO -   File: ./static/images/glorfindel.png
+2026-02-01 20:46:45,427 - INFO -   File: ./static/images/tolkien.png
+2026-02-01 20:46:45,427 - INFO - Directory: ./static/blog
+2026-02-01 20:46:45,427 - INFO - Directory: ./static/blog/glorfindel
+2026-02-01 20:46:45,427 - INFO -   File: ./static/blog/glorfindel/index.html
+2026-02-01 20:46:45,427 - INFO - Directory: ./static/blog/majesty
+2026-02-01 20:46:45,427 - INFO -   File: ./static/blog/majesty/index.html
+2026-02-01 20:46:45,427 - INFO - Directory: ./static/blog/tom
+2026-02-01 20:46:45,427 - INFO -   File: ./static/blog/tom/index.html
+2026-02-01 20:46:45,427 - INFO - Scan completed successfully.
+2026-02-01 20:46:45,431 - INFO - Successfully copied ./static to ./public
+2026-02-02 10:37:07,777 - INFO - Starting scan of: ./public
+2026-02-02 10:37:07,778 - INFO - Directory: ./public
+2026-02-02 10:37:07,778 - INFO -   File: ./public/index.html
+2026-02-02 10:37:07,778 - INFO -   File: ./public/index.css
+2026-02-02 10:37:07,778 - INFO - Directory: ./public/contact
+2026-02-02 10:37:07,778 - INFO -   File: ./public/contact/index.html
+2026-02-02 10:37:07,779 - INFO - Directory: ./public/images
+2026-02-02 10:37:07,779 - INFO -   File: ./public/images/tom.png
+2026-02-02 10:37:07,779 - INFO -   File: ./public/images/rivendell.png
+2026-02-02 10:37:07,779 - INFO -   File: ./public/images/glorfindel.png
+2026-02-02 10:37:07,779 - INFO -   File: ./public/images/tolkien.png
+2026-02-02 10:37:07,779 - INFO - Directory: ./public/blog
+2026-02-02 10:37:07,779 - INFO - Directory: ./public/blog/glorfindel
+2026-02-02 10:37:07,779 - INFO -   File: ./public/blog/glorfindel/index.html
+2026-02-02 10:37:07,779 - INFO - Directory: ./public/blog/majesty
+2026-02-02 10:37:07,779 - INFO -   File: ./public/blog/majesty/index.html
+2026-02-02 10:37:07,779 - INFO - Directory: ./public/blog/tom
+2026-02-02 10:37:07,779 - INFO -   File: ./public/blog/tom/index.html
+2026-02-02 10:37:07,779 - INFO - Scan completed successfully.
+2026-02-02 10:37:07,788 - INFO - SUCCESSFULLY DELETED: ./public and all its children.
+2026-02-02 10:37:07,788 - INFO - Starting scan of: ./static
+2026-02-02 10:37:07,788 - INFO - Directory: ./static
+2026-02-02 10:37:07,788 - INFO -   File: ./static/index.html
+2026-02-02 10:37:07,788 - INFO -   File: ./static/index.css
+2026-02-02 10:37:07,788 - INFO - Directory: ./static/contact
+2026-02-02 10:37:07,788 - INFO -   File: ./static/contact/index.html
+2026-02-02 10:37:07,788 - INFO - Directory: ./static/images
+2026-02-02 10:37:07,788 - INFO -   File: ./static/images/tom.png
+2026-02-02 10:37:07,788 - INFO -   File: ./static/images/rivendell.png
+2026-02-02 10:37:07,788 - INFO -   File: ./static/images/glorfindel.png
+2026-02-02 10:37:07,788 - INFO -   File: ./static/images/tolkien.png
+2026-02-02 10:37:07,788 - INFO - Directory: ./static/blog
+2026-02-02 10:37:07,788 - INFO - Directory: ./static/blog/glorfindel
+2026-02-02 10:37:07,788 - INFO -   File: ./static/blog/glorfindel/index.html
+2026-02-02 10:37:07,788 - INFO - Directory: ./static/blog/majesty
+2026-02-02 10:37:07,788 - INFO -   File: ./static/blog/majesty/index.html
+2026-02-02 10:37:07,788 - INFO - Directory: ./static/blog/tom
+2026-02-02 10:37:07,788 - INFO -   File: ./static/blog/tom/index.html
+2026-02-02 10:37:07,788 - INFO - Scan completed successfully.
+2026-02-02 10:37:07,804 - INFO - Successfully copied ./static to ./public
+2026-02-02 10:37:08,042 - INFO - Starting scan of: ./public
+2026-02-02 10:37:08,042 - INFO - Directory: ./public
+2026-02-02 10:37:08,042 - INFO -   File: ./public/index.html
+2026-02-02 10:37:08,042 - INFO -   File: ./public/index.css
+2026-02-02 10:37:08,042 - INFO - Directory: ./public/contact
+2026-02-02 10:37:08,042 - INFO -   File: ./public/contact/index.html
+2026-02-02 10:37:08,042 - INFO - Directory: ./public/images
+2026-02-02 10:37:08,042 - INFO -   File: ./public/images/tom.png
+2026-02-02 10:37:08,042 - INFO -   File: ./public/images/rivendell.png
+2026-02-02 10:37:08,042 - INFO -   File: ./public/images/glorfindel.png
+2026-02-02 10:37:08,042 - INFO -   File: ./public/images/tolkien.png
+2026-02-02 10:37:08,042 - INFO - Directory: ./public/blog
+2026-02-02 10:37:08,042 - INFO - Directory: ./public/blog/glorfindel
+2026-02-02 10:37:08,042 - INFO -   File: ./public/blog/glorfindel/index.html
+2026-02-02 10:37:08,042 - INFO - Directory: ./public/blog/majesty
+2026-02-02 10:37:08,042 - INFO -   File: ./public/blog/majesty/index.html
+2026-02-02 10:37:08,042 - INFO - Directory: ./public/blog/tom
+2026-02-02 10:37:08,042 - INFO -   File: ./public/blog/tom/index.html
+2026-02-02 10:37:08,042 - INFO - Scan completed successfully.
+2026-02-02 10:37:08,043 - INFO - SUCCESSFULLY DELETED: ./public and all its children.
+2026-02-02 10:37:08,043 - INFO - Starting scan of: ./static
+2026-02-02 10:37:08,043 - INFO - Directory: ./static
+2026-02-02 10:37:08,043 - INFO -   File: ./static/index.html
+2026-02-02 10:37:08,043 - INFO -   File: ./static/index.css
+2026-02-02 10:37:08,043 - INFO - Directory: ./static/contact
+2026-02-02 10:37:08,043 - INFO -   File: ./static/contact/index.html
+2026-02-02 10:37:08,043 - INFO - Directory: ./static/images
+2026-02-02 10:37:08,043 - INFO -   File: ./static/images/tom.png
+2026-02-02 10:37:08,043 - INFO -   File: ./static/images/rivendell.png
+2026-02-02 10:37:08,043 - INFO -   File: ./static/images/glorfindel.png
+2026-02-02 10:37:08,043 - INFO -   File: ./static/images/tolkien.png
+2026-02-02 10:37:08,043 - INFO - Directory: ./static/blog
+2026-02-02 10:37:08,043 - INFO - Directory: ./static/blog/glorfindel
+2026-02-02 10:37:08,043 - INFO -   File: ./static/blog/glorfindel/index.html
+2026-02-02 10:37:08,043 - INFO - Directory: ./static/blog/majesty
+2026-02-02 10:37:08,043 - INFO -   File: ./static/blog/majesty/index.html
+2026-02-02 10:37:08,043 - INFO - Directory: ./static/blog/tom
+2026-02-02 10:37:08,043 - INFO -   File: ./static/blog/tom/index.html
+2026-02-02 10:37:08,043 - INFO - Scan completed successfully.
+2026-02-02 10:37:08,047 - INFO - Successfully copied ./static to ./public
+2026-02-02 10:37:18,629 - INFO - Starting scan of: ./public
+2026-02-02 10:37:18,629 - INFO - Directory: ./public
+2026-02-02 10:37:18,629 - INFO -   File: ./public/index.html
+2026-02-02 10:37:18,629 - INFO -   File: ./public/index.css
+2026-02-02 10:37:18,629 - INFO - Directory: ./public/contact
+2026-02-02 10:37:18,629 - INFO -   File: ./public/contact/index.html
+2026-02-02 10:37:18,629 - INFO - Directory: ./public/images
+2026-02-02 10:37:18,629 - INFO -   File: ./public/images/tom.png
+2026-02-02 10:37:18,629 - INFO -   File: ./public/images/rivendell.png
+2026-02-02 10:37:18,629 - INFO -   File: ./public/images/glorfindel.png
+2026-02-02 10:37:18,629 - INFO -   File: ./public/images/tolkien.png
+2026-02-02 10:37:18,629 - INFO - Directory: ./public/blog
+2026-02-02 10:37:18,629 - INFO - Directory: ./public/blog/glorfindel
+2026-02-02 10:37:18,629 - INFO -   File: ./public/blog/glorfindel/index.html
+2026-02-02 10:37:18,629 - INFO - Directory: ./public/blog/majesty
+2026-02-02 10:37:18,629 - INFO -   File: ./public/blog/majesty/index.html
+2026-02-02 10:37:18,629 - INFO - Directory: ./public/blog/tom
+2026-02-02 10:37:18,629 - INFO -   File: ./public/blog/tom/index.html
+2026-02-02 10:37:18,629 - INFO - Scan completed successfully.
+2026-02-02 10:37:18,630 - INFO - SUCCESSFULLY DELETED: ./public and all its children.
+2026-02-02 10:37:18,630 - INFO - Starting scan of: ./static
+2026-02-02 10:37:18,630 - INFO - Directory: ./static
+2026-02-02 10:37:18,630 - INFO -   File: ./static/index.html
+2026-02-02 10:37:18,630 - INFO -   File: ./static/index.css
+2026-02-02 10:37:18,630 - INFO - Directory: ./static/contact
+2026-02-02 10:37:18,630 - INFO -   File: ./static/contact/index.html
+2026-02-02 10:37:18,630 - INFO - Directory: ./static/images
+2026-02-02 10:37:18,630 - INFO -   File: ./static/images/tom.png
+2026-02-02 10:37:18,630 - INFO -   File: ./static/images/rivendell.png
+2026-02-02 10:37:18,630 - INFO -   File: ./static/images/glorfindel.png
+2026-02-02 10:37:18,630 - INFO -   File: ./static/images/tolkien.png
+2026-02-02 10:37:18,630 - INFO - Directory: ./static/blog
+2026-02-02 10:37:18,630 - INFO - Directory: ./static/blog/glorfindel
+2026-02-02 10:37:18,630 - INFO -   File: ./static/blog/glorfindel/index.html
+2026-02-02 10:37:18,630 - INFO - Directory: ./static/blog/majesty
+2026-02-02 10:37:18,630 - INFO -   File: ./static/blog/majesty/index.html
+2026-02-02 10:37:18,631 - INFO - Directory: ./static/blog/tom
+2026-02-02 10:37:18,631 - INFO -   File: ./static/blog/tom/index.html
+2026-02-02 10:37:18,631 - INFO - Scan completed successfully.
+2026-02-02 10:37:18,634 - INFO - Successfully copied ./static to ./public
+2026-02-02 10:37:18,837 - INFO - Starting scan of: ./public
+2026-02-02 10:37:18,838 - INFO - Directory: ./public
+2026-02-02 10:37:18,838 - INFO -   File: ./public/index.html
+2026-02-02 10:37:18,838 - INFO -   File: ./public/index.css
+2026-02-02 10:37:18,838 - INFO - Directory: ./public/contact
+2026-02-02 10:37:18,838 - INFO -   File: ./public/contact/index.html
+2026-02-02 10:37:18,838 - INFO - Directory: ./public/images
+2026-02-02 10:37:18,838 - INFO -   File: ./public/images/tom.png
+2026-02-02 10:37:18,838 - INFO -   File: ./public/images/rivendell.png
+2026-02-02 10:37:18,838 - INFO -   File: ./public/images/glorfindel.png
+2026-02-02 10:37:18,838 - INFO -   File: ./public/images/tolkien.png
+2026-02-02 10:37:18,838 - INFO - Directory: ./public/blog
+2026-02-02 10:37:18,838 - INFO - Directory: ./public/blog/glorfindel
+2026-02-02 10:37:18,838 - INFO -   File: ./public/blog/glorfindel/index.html
+2026-02-02 10:37:18,838 - INFO - Directory: ./public/blog/majesty
+2026-02-02 10:37:18,838 - INFO -   File: ./public/blog/majesty/index.html
+2026-02-02 10:37:18,838 - INFO - Directory: ./public/blog/tom
+2026-02-02 10:37:18,838 - INFO -   File: ./public/blog/tom/index.html
+2026-02-02 10:37:18,838 - INFO - Scan completed successfully.
+2026-02-02 10:37:18,838 - INFO - SUCCESSFULLY DELETED: ./public and all its children.
+2026-02-02 10:37:18,839 - INFO - Starting scan of: ./static
+2026-02-02 10:37:18,839 - INFO - Directory: ./static
+2026-02-02 10:37:18,839 - INFO -   File: ./static/index.html
+2026-02-02 10:37:18,839 - INFO -   File: ./static/index.css
+2026-02-02 10:37:18,839 - INFO - Directory: ./static/contact
+2026-02-02 10:37:18,839 - INFO -   File: ./static/contact/index.html
+2026-02-02 10:37:18,839 - INFO - Directory: ./static/images
+2026-02-02 10:37:18,839 - INFO -   File: ./static/images/tom.png
+2026-02-02 10:37:18,839 - INFO -   File: ./static/images/rivendell.png
+2026-02-02 10:37:18,839 - INFO -   File: ./static/images/glorfindel.png
+2026-02-02 10:37:18,839 - INFO -   File: ./static/images/tolkien.png
+2026-02-02 10:37:18,839 - INFO - Directory: ./static/blog
+2026-02-02 10:37:18,839 - INFO - Directory: ./static/blog/glorfindel
+2026-02-02 10:37:18,839 - INFO -   File: ./static/blog/glorfindel/index.html
+2026-02-02 10:37:18,839 - INFO - Directory: ./static/blog/majesty
+2026-02-02 10:37:18,839 - INFO -   File: ./static/blog/majesty/index.html
+2026-02-02 10:37:18,839 - INFO - Directory: ./static/blog/tom
+2026-02-02 10:37:18,839 - INFO -   File: ./static/blog/tom/index.html
+2026-02-02 10:37:18,839 - INFO - Scan completed successfully.
+2026-02-02 10:37:18,841 - INFO - Successfully copied ./static to ./public
+2026-02-02 10:37:46,241 - INFO - Starting scan of: ./public
+2026-02-02 10:37:46,241 - INFO - Directory: ./public
+2026-02-02 10:37:46,241 - INFO -   File: ./public/index.html
+2026-02-02 10:37:46,241 - INFO -   File: ./public/index.css
+2026-02-02 10:37:46,241 - INFO - Directory: ./public/contact
+2026-02-02 10:37:46,241 - INFO -   File: ./public/contact/index.html
+2026-02-02 10:37:46,241 - INFO - Directory: ./public/images
+2026-02-02 10:37:46,241 - INFO -   File: ./public/images/tom.png
+2026-02-02 10:37:46,241 - INFO -   File: ./public/images/rivendell.png
+2026-02-02 10:37:46,241 - INFO -   File: ./public/images/glorfindel.png
+2026-02-02 10:37:46,241 - INFO -   File: ./public/images/tolkien.png
+2026-02-02 10:37:46,241 - INFO - Directory: ./public/blog
+2026-02-02 10:37:46,241 - INFO - Directory: ./public/blog/glorfindel
+2026-02-02 10:37:46,241 - INFO -   File: ./public/blog/glorfindel/index.html
+2026-02-02 10:37:46,241 - INFO - Directory: ./public/blog/majesty
+2026-02-02 10:37:46,241 - INFO -   File: ./public/blog/majesty/index.html
+2026-02-02 10:37:46,241 - INFO - Directory: ./public/blog/tom
+2026-02-02 10:37:46,241 - INFO -   File: ./public/blog/tom/index.html
+2026-02-02 10:37:46,241 - INFO - Scan completed successfully.
+2026-02-02 10:37:46,242 - INFO - SUCCESSFULLY DELETED: ./public and all its children.
+2026-02-02 10:37:46,242 - INFO - Starting scan of: ./static
+2026-02-02 10:37:46,242 - INFO - Directory: ./static
+2026-02-02 10:37:46,242 - INFO -   File: ./static/index.html
+2026-02-02 10:37:46,242 - INFO -   File: ./static/index.css
+2026-02-02 10:37:46,242 - INFO - Directory: ./static/contact
+2026-02-02 10:37:46,242 - INFO -   File: ./static/contact/index.html
+2026-02-02 10:37:46,242 - INFO - Directory: ./static/images
+2026-02-02 10:37:46,242 - INFO -   File: ./static/images/tom.png
+2026-02-02 10:37:46,242 - INFO -   File: ./static/images/rivendell.png
+2026-02-02 10:37:46,242 - INFO -   File: ./static/images/glorfindel.png
+2026-02-02 10:37:46,242 - INFO -   File: ./static/images/tolkien.png
+2026-02-02 10:37:46,242 - INFO - Directory: ./static/blog
+2026-02-02 10:37:46,242 - INFO - Directory: ./static/blog/glorfindel
+2026-02-02 10:37:46,242 - INFO -   File: ./static/blog/glorfindel/index.html
+2026-02-02 10:37:46,242 - INFO - Directory: ./static/blog/majesty
+2026-02-02 10:37:46,242 - INFO -   File: ./static/blog/majesty/index.html
+2026-02-02 10:37:46,242 - INFO - Directory: ./static/blog/tom
+2026-02-02 10:37:46,242 - INFO -   File: ./static/blog/tom/index.html
+2026-02-02 10:37:46,242 - INFO - Scan completed successfully.
+2026-02-02 10:37:46,246 - INFO - Successfully copied ./static to ./public
+2026-02-02 10:38:07,723 - INFO - Starting scan of: ./public
+2026-02-02 10:38:07,723 - INFO - Directory: ./public
+2026-02-02 10:38:07,723 - INFO -   File: ./public/index.html
+2026-02-02 10:38:07,723 - INFO -   File: ./public/index.css
+2026-02-02 10:38:07,723 - INFO - Directory: ./public/contact
+2026-02-02 10:38:07,723 - INFO -   File: ./public/contact/index.html
+2026-02-02 10:38:07,724 - INFO - Directory: ./public/images
+2026-02-02 10:38:07,724 - INFO -   File: ./public/images/tom.png
+2026-02-02 10:38:07,724 - INFO -   File: ./public/images/rivendell.png
+2026-02-02 10:38:07,724 - INFO -   File: ./public/images/glorfindel.png
+2026-02-02 10:38:07,724 - INFO -   File: ./public/images/tolkien.png
+2026-02-02 10:38:07,724 - INFO - Directory: ./public/blog
+2026-02-02 10:38:07,724 - INFO - Directory: ./public/blog/glorfindel
+2026-02-02 10:38:07,724 - INFO -   File: ./public/blog/glorfindel/index.html
+2026-02-02 10:38:07,724 - INFO - Directory: ./public/blog/majesty
+2026-02-02 10:38:07,724 - INFO -   File: ./public/blog/majesty/index.html
+2026-02-02 10:38:07,724 - INFO - Directory: ./public/blog/tom
+2026-02-02 10:38:07,724 - INFO -   File: ./public/blog/tom/index.html
+2026-02-02 10:38:07,724 - INFO - Scan completed successfully.
+2026-02-02 10:38:07,724 - INFO - SUCCESSFULLY DELETED: ./public and all its children.
+2026-02-02 10:38:07,724 - INFO - Starting scan of: ./static
+2026-02-02 10:38:07,724 - INFO - Directory: ./static
+2026-02-02 10:38:07,724 - INFO -   File: ./static/index.html
+2026-02-02 10:38:07,724 - INFO -   File: ./static/index.css
+2026-02-02 10:38:07,724 - INFO - Directory: ./static/contact
+2026-02-02 10:38:07,724 - INFO -   File: ./static/contact/index.html
+2026-02-02 10:38:07,724 - INFO - Directory: ./static/images
+2026-02-02 10:38:07,724 - INFO -   File: ./static/images/tom.png
+2026-02-02 10:38:07,724 - INFO -   File: ./static/images/rivendell.png
+2026-02-02 10:38:07,724 - INFO -   File: ./static/images/glorfindel.png
+2026-02-02 10:38:07,724 - INFO -   File: ./static/images/tolkien.png
+2026-02-02 10:38:07,725 - INFO - Directory: ./static/blog
+2026-02-02 10:38:07,725 - INFO - Directory: ./static/blog/glorfindel
+2026-02-02 10:38:07,725 - INFO -   File: ./static/blog/glorfindel/index.html
+2026-02-02 10:38:07,725 - INFO - Directory: ./static/blog/majesty
+2026-02-02 10:38:07,725 - INFO -   File: ./static/blog/majesty/index.html
+2026-02-02 10:38:07,725 - INFO - Directory: ./static/blog/tom
+2026-02-02 10:38:07,725 - INFO -   File: ./static/blog/tom/index.html
+2026-02-02 10:38:07,725 - INFO - Scan completed successfully.
+2026-02-02 10:38:07,729 - INFO - Successfully copied ./static to ./public
