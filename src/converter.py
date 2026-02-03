@@ -428,8 +428,9 @@ def generate_page(from_path, template_path, dest_path, basepath="/"):
     normalized_base = basepath
     if not normalized_base.startswith("/"):
         normalized_base = "/" + normalized_base
-    if not normalized_base.endswith("/"):
-        normalized_base += "/"
+    #if not normalized_base.endswith("/"):
+    #    continue
+        #normalized_base += "/"
     # We replace the Title first, then the Content
     full_html = template_content.replace("{{ Title }}", title)
     full_html = full_html.replace("{{ Content }}", html_content)
