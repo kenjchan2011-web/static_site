@@ -10,15 +10,16 @@ def main():
     if len(sys.argv) > 1:
         basepath = sys.argv[1]
     
-    # org
-    #generate_pages_recursive(source_dir, template_path, dest_dir, basepath=basepath)
 
     source_dir = "/home/kenjc/development/projects/static_site_generator/static_site/content"
     dest_dir = "/home/kenjc/development/projects/static_site_generator/static_site/static"
     template_path = "/home/kenjc/development/projects/static_site_generator/static_site/template.html"
 
+    # org
+    generate_pages_recursive(source_dir, template_path, dest_dir, basepath=basepath)
+
     # Debugging purpose
-    generate_pages_recursive(source_dir, template_path, dest_dir, '/static-site/')
+    #generate_pages_recursive(source_dir, template_path, dest_dir, '/static-site/')
     refresh_environment()
 
 

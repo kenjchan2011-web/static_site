@@ -438,7 +438,7 @@ def generate_page(from_path, template_path, dest_path, basepath="/"):
     full_html = template_content.replace("{{ Title }}", title)
     full_html = full_html.replace("{{ Content }}", html_content)
 
-    safe_base = basepath if basepath.endswith("/") else f"{basepath}/"
+    #safe_base = basepath if basepath.endswith("/") else f"{basepath}/"
 
     #full_html = full_html.replace('href="/', f'href="{safe_base}')
     #full_html = full_html.replace('src="/', f'src="{safe_base}')
