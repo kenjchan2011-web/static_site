@@ -440,8 +440,8 @@ def generate_page(from_path, template_path, dest_path, basepath="/"):
 
     #safe_base = basepath if basepath.endswith("/") else f"{basepath}/"
 
-    #full_html = full_html.replace('href="/', f'href="{safe_base}')
-    #full_html = full_html.replace('src="/', f'src="{safe_base}')
+    full_html = full_html.replace('href="/', f'href="')
+    full_html = full_html.replace('src="/', f'src="')
 
 
     # 6. Ensure Destination Directory Exists
