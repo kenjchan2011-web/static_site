@@ -13,7 +13,11 @@ def main():
         basepath = sys.argv[1]
     
     print(f"Starting build with basepath: {basepath}")
-    generate_pages_recursive(source_dir, template_path, dest_dir, basepath=basepath)
+    # org
+    #generate_pages_recursive(source_dir, template_path, dest_dir, basepath=basepath)
+
+    # Debugging purpose
+    generate_pages_recursive(source_dir, template_path, dest_dir, '/static-site/')
     refresh_environment()
 
 
