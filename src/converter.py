@@ -425,12 +425,17 @@ def generate_page(from_path, template_path, dest_path, basepath="/"):
     title = extract_title(markdown_content)
 
     # 5. Replace Placeholders
-    normalized_base = basepath
-    if not normalized_base.startswith("/"):
-        normalized_base = "/" + normalized_base
-    if not normalized_base.endswith("/") :
+    # First trial
+    #normalized_base = basepath
+    #if not normalized_base.startswith("/"):
+    #    normalized_base = "/" + normalized_base
+    #if not normalized_base.endswith("/") :
+    #    normalized_base += "/"
+
+    # Fix attempt
+    normalized_base = basepath.strip("/")
+    if normalized_base:
         normalized_base += "/"
-        normalized_base.removeprefix("/")
 
     # We replace the Title first, then the Content
     full_html = template_content.replace("{{ Title }}", title)
