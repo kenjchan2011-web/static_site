@@ -59,10 +59,10 @@ class LeafNode(HTMLNode):
         if self.props_to_html() == "":
             if self.tag is None:
                 return f"{self.value}"
-            else:
-                return f"<{self.tag}>{self.value}</{self.tag}>"
-        else:
-            return f"<{self.tag} {self.props_to_html()}>{self.value}</{self.tag}>"
+            #else:
+            #    return f"<{self.tag}>{self.value}</{self.tag}>"
+        #else:
+        return f"<{self.tag} {self.props_to_html()}>{self.value}</{self.tag}>"
 
 
 class ParentNode(HTMLNode):
