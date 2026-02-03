@@ -426,23 +426,23 @@ def generate_page(from_path, template_path, dest_path, basepath="/"):
 
     # 5. Replace Placeholders
     # First trial
-    #normalized_base = basepath
-    #if not normalized_base.startswith("/"):
-    #    normalized_base = "/" + normalized_base
-    #if not normalized_base.endswith("/") :
-    #    normalized_base += "/"
+    normalized_base = basepath
+    # Ensure it starts with / if it's not empty
+    if not normalized_base.startswith("/") and normalized_base != "":
+        normalized_base = "/" + normalized_base
 
-    # Fix attempt
-    normalized_base = basepath.strip("/")
-    if normalized_base:
+    if not normalized_base.endswith("/"):
         normalized_base += "/"
 
     # We replace the Title first, then the Content
     full_html = template_content.replace("{{ Title }}", title)
     full_html = full_html.replace("{{ Content }}", html_content)
 
-    full_html = full_html.replace('href="/', f'href="{normalized_base}')
-    full_html = full_html.replace('src="/', f'src="{normalized_base}')
+    safe_base = basepath if basepath.endswith("/") else f"{basepath}/"
+
+    #full_html = full_html.replace('href="/', f'href="{safe_base}')
+    #full_html = full_html.replace('src="/', f'src="{safe_base}')
+
 
     # 6. Ensure Destination Directory Exists
     dest_dir_path = os.path.dirname(dest_path)
